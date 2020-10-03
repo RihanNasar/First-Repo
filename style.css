@@ -1,0 +1,22 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    
+
+
+}
+body {
+    background: rgba(255, 254, 255, 0.644);
+}
+h1>span{
+    color: aliceblue;
+
+    color: rgb(8, 0, 117);
+}
+.result {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
